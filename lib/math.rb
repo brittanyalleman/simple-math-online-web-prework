@@ -1,4 +1,4 @@
-def 
+def
   1.0+1.o
 end
 
